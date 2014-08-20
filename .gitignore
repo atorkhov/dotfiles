@@ -1,0 +1,9 @@
+*.swp
+*.swo
+*~
+core.*
+tags
+/tmp/**/*
+*.pyc
+*.pyo
+Session.vim

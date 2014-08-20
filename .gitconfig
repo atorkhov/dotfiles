@@ -1,5 +1,7 @@
-[color]
-	ui = true
 [user]
 	email = atorkhov@gmail.com
 	name = Alexey Torkhov
+[color]
+	ui = true
+[core]
+	excludesfile = ~/.gitignore
