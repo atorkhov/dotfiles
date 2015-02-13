@@ -2,7 +2,19 @@
 	email = atorkhov@gmail.com
 	name = Alexey Torkhov
 [color]
-	ui = true
+    ui = true
+[alias]
+	s = status -sb
+	d = diff
+	dc = diff --cached
+	co = checkout
+	cb = checkout -b
+	a = add
+	l = log --graph --abbrev-commit --date=relative
+	la = log --graph --abbrev-commit --date=relative --all
+	lp = log -p
+	p = add -p
+	c = commit
 [core]
 	excludesfile = ~/.gitignore
 [branch]
