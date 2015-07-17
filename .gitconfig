@@ -2,7 +2,7 @@
 	email = atorkhov@gmail.com
 	name = Alexey Torkhov
 [color]
-    ui = true
+	ui = true
 [alias]
 	s = status -sb
 	d = diff
