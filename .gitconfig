@@ -15,6 +15,7 @@
 	lp = log -p
 	p = add -p
 	c = commit
+	r = rebase -i HEAD~20
 [core]
 	excludesfile = ~/.gitignore
 [branch]

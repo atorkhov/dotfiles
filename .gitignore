@@ -6,4 +6,5 @@ tags
 /tmp/**/*
 *.pyc
 *.pyo
+*.sqlite3
 Session.vim

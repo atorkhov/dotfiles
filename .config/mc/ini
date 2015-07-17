@@ -82,6 +82,9 @@ ignore_ftp_chattr_errors=true
 skin=xoria256
 filepos_max_saved_entries=1024
 
+editor_drop_selection_on_copy=1
+editor_stop_format_chars=-+*\\,.;:&>
+
 [Layout]
 message_visible=0
 keybar_visible=0
