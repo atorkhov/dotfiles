@@ -3,6 +3,8 @@
 *~
 core.*
 tags
+.tags
+.tags1
 /tmp/**/*
 *.pyc
 *.pyo

@@ -18,9 +18,13 @@
 	r = rebase -i HEAD~20
 [core]
 	excludesfile = ~/.gitignore
+	quotepath = false
 [branch]
+	autosetupmerge = always
 	autosetuprebase = always
 [format]
 	pretty=format:%C(yellow)%h%Creset -%C(red)%d%Creset %s %Cgreen(%ar) %C(bold blue)<%an %ae>%Creset
 [push]
 	default = simple
+[pull]
+	rebase = true
