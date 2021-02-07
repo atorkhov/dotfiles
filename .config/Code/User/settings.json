@@ -1,0 +1,19 @@
+{
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "window.zoomLevel": 0,
+    "window.menuBarVisibility": "toggle",
+    "prettier.requireConfig": true,
+    "prettier.printWidth": 120,
+    "vetur.format.defaultFormatter.html": "prettier",
+    "git.enableSmartCommit": true,
+    "yaml.format.singleQuote": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "gitlens.advanced.fileHistoryFollowsRenames": true,
+    "gitlens.advanced.fileHistoryShowAllBranches": true
+}
